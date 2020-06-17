@@ -1,5 +1,3 @@
-# W1D1-Biblio_Utils
-
-Библиотека Utils
-
-Установка зависимостей: npm install
+## Component Library
+### Added
+- [FEATURE-1] Добавлена библиотека Utils
