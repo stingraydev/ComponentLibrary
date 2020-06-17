@@ -1,0 +1,16 @@
+{
+  "name": "week_1_project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint scripts.js"
+  },
+  "author": "Artem Lusnikov",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
